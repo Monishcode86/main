@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_assets_favicon_green.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/assets_favicon_green.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-hdpi_launch_screen.png.flat",
+        "source": "com.k2mobiapp-main-38:/drawable-hdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xhdpi_launch_screen.png.flat",
+        "source": "com.k2mobiapp-main-38:/drawable-xhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xhdpi_assets_favicon_green.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xhdpi/assets_favicon_green.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_assets_favicon_white.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/assets_favicon_white.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_search.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_search.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/layout_launch_screen.xml.flat",
+        "source": "com.k2mobiapp-main-38:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_screens_image_previous.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/screens_image_previous.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_chevron.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_chevron.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_close.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_close.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_assets_wimera_logo.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/assets_wimera_logo.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.k2mobiapp-main-38:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxhdpi_launch_screen.png.flat",
+        "source": "com.k2mobiapp-main-38:/drawable-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_check.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_check.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_launch_screen.png.flat",
+        "source": "com.k2mobiapp-main-38:/drawable-mdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_screens_image_next.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/screens_image_next.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.k2mobiapp-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxxhdpi_launch_screen.png.flat",
+        "source": "com.k2mobiapp-main-38:/drawable-xxxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.k2mobiapp-merged_res-37:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.k2mobiapp-res-32:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]
